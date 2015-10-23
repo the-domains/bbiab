@@ -4,7 +4,7 @@
         <description><![CDATA[be back in a bit]]></description>
         <link>https://thegrid.ai/bbiab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 16:47:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 16:46:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bbiab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bbiab/bf6f5e51-7eb8-4629-9a98-7a4eb9147d2a/index.html</link>
             <guid isPermaLink="false">bf6f5e51-7eb8-4629-9a98-7a4eb9147d2a</guid>
             <pubDate>Fri, 23 Oct 2015 16:45:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/bbiab/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">38e3ea02-66e4-476d-8533-147b56a0e89b</guid>
+            <pubDate>Fri, 23 Oct 2015 16:41:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
