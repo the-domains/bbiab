@@ -1,0 +1,23 @@
+name: bbiab
+favicon: null
+layout_spectrum: 0.7634805873967707
+typography_spectrum: 0.1638096678070724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2019877398852259
+  lightness: 0.8611340643838048
+  saturation: 0.31224305578507483
+  rhythmicContrast: 0.3079398889094591
+purpose: []
