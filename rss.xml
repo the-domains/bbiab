@@ -4,7 +4,7 @@
         <description><![CDATA[be back in a bit]]></description>
         <link>http://www.bbiab.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 18:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2015 18:52:37 GMT</lastBuildDate>
         <atom:link href="http://www.bbiab.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -22,13 +22,6 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://pbs.twimg.com/media/CR873E6UAAAtfNb.jpg">]]></description>
-            <link>http://www.bbiab.com/4e9e0d2d-6b48-458f-992c-725a89b28de4/index.html</link>
-            <guid isPermaLink="false">4e9e0d2d-6b48-458f-992c-725a89b28de4</guid>
-            <pubDate>Fri, 23 Oct 2015 17:30:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The latest Tweets from Adrian Cutler (@iadec). ..theres no place like 192.168.0.1... just sayin'. South Coast Metro, CA</p>]]></description>
             <link>https://twitter.com/iadec/with_replies</link>
             <guid isPermaLink="false">6d86dded-d7d7-4aed-b9a8-75b53cd16bf4</guid>
@@ -40,13 +33,6 @@
             <link>https://instagram.com/p/4f3xKIvRfs/?taken-by=iade.c</link>
             <guid isPermaLink="false">b6bf8c4b-edc7-4da9-b22a-7a0dbed53d91</guid>
             <pubDate>Fri, 23 Oct 2015 16:55:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>here we go...</p>]]></description>
-            <link>http://www.bbiab.com/bf6f5e51-7eb8-4629-9a98-7a4eb9147d2a/index.html</link>
-            <guid isPermaLink="false">bf6f5e51-7eb8-4629-9a98-7a4eb9147d2a</guid>
-            <pubDate>Fri, 23 Oct 2015 16:45:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
