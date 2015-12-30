@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: test test test
-datePublished: '2015-12-01T17:44:05.043Z'
-dateModified: '2015-12-01T17:44:01.798Z'
+datePublished: '2015-12-30T21:51:42.849Z'
+dateModified: '2015-12-30T21:51:35.379Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -36,4 +36,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![The Big Bacon Theory #SoCalSoFar #niteshiftbored](https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s640x640/sh0.08/e35/11325030_711020255709002_203634303_n.jpg)
+![The Big Bacon Theory #SoCalSoFar #niteshiftbored](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2920b6e59ad114712fc633b7b42b6006c21dafdd.jpg)
