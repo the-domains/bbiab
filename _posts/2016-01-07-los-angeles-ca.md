@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://google.com/maps'
-  name: Google Maps
-  favicon: 'https://www.google.com/images/branding/product/ico/maps_32dp.ico'
-  domain: www.google.com
-keywords: []
-description: ''
-app_links: []
-isBasedOnUrl: 'https://www.google.com/maps/place/Los+Angeles,+CA/@33.9877337,-118.225682,11z/data=!4m2!3m1!1s0x80c2c75ddc27da13:0xe22fdf6f254608f4'
-title: 'Los Angeles, CA'
-datePublished: '2016-01-07T02:08:57.714Z'
-dateModified: '2016-01-07T02:08:35.660Z'
-sourcePath: _posts/2016-01-07-los-angeles-ca.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.google.com/maps/place/Los+Angeles,+CA/@33.9877337,-118.225682,11z/data=!4m2!3m1!1s0x80c2c75ddc27da13:0xe22fdf6f254608f4'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-01-07T03:40:14.896Z'
+dateModified: '2016-01-07T03:39:52.246Z'
+author: []
+related: []
+app_links: []
+title: 'Los Angeles, CA'
+sourcePath: _posts/2016-01-07-los-angeles-ca.md
+published: true
+authors: []
+publisher:
+  name: Google Maps
+  domain: www.google.com
+  url: 'http://google.com/maps'
+  favicon: 'https://www.google.com/images/branding/product/ico/maps_32dp.ico'
 _type: Place
 _context: 'http://schema.org'
 
