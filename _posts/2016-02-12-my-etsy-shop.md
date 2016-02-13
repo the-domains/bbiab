@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T19:56:05.780Z'
-dateModified: '2016-02-13T19:56:03.342Z'
+datePublished: '2016-02-13T20:00:49.783Z'
+dateModified: '2016-02-13T20:00:46.753Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -25,7 +25,7 @@ _type: WebPage
 Please come and explore my shop!
 
 ..its [here!][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbdcc009-480f-45cf-9ab6-687281221e35.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe234a745ac35f19ae5d9c5c05bed096395692d6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22e792c4b0c7407378f2fa18aa6d5ee5579e2d34.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/026e89064f8259aec4497d53ad7263f0a754d729.jpg)
 
 [0]: https://www.etsy.com/shop/goati
