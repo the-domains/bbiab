@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T20:07:23.702Z'
-dateModified: '2016-02-13T20:07:19.839Z'
+datePublished: '2016-02-13T20:10:15.635Z'
+dateModified: '2016-02-13T20:10:11.971Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
