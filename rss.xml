@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[be back in a bit]]></title>
-        <description><![CDATA[be back in a bit]]></description>
+        <title><![CDATA[be back in a bit - TEST SITE]]></title>
+        <description><![CDATA[be back in a bit - TEST SITE]]></description>
         <link>https://thegrid.ai/bbiab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 17:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 17:37:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bbiab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Wedge HD Surf Cam and Report]]></title>
@@ -26,20 +26,6 @@
             <link>https://soundcloud.com/nick-de-ridder/wrecking-ball-afrojack-remix</link>
             <guid isPermaLink="false">41283175-c7b0-44c0-bdea-7d2f5370321e</guid>
             <pubDate>Sun, 14 Feb 2016 00:02:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f8f061c4cb44d44a4035b9d58bddae99d2b5315.jpg" alt="" title="">]]></description>
-            <link>https://www.etsy.com/listing/217187318/double-triangle-scarf-in-neutral?ref=shop_home_feat_1</link>
-            <guid isPermaLink="false">4ac14a8e-7972-4c30-baef-ef27b75debdf</guid>
-            <pubDate>Fri, 12 Feb 2016 21:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://img0.etsystatic.com/123/0/5755013/il_570xN.914685964_qmxc.jpg" alt="" title="">]]></description>
-            <link>https://www.etsy.com/listing/266412657/girlfriend-gift-boyfriend-gift-coffee?ref=finds_l</link>
-            <guid isPermaLink="false">e2c8f4b8-bcd2-4cec-a699-2c995a9a6bbd</guid>
-            <pubDate>Fri, 12 Feb 2016 17:53:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
