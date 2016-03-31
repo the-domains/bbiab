@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-31T17:54:33.761Z'
-dateModified: '2016-03-31T17:54:30.150Z'
+datePublished: '2016-03-31T17:55:40.685Z'
+dateModified: '2016-03-31T17:54:41.951Z'
 author: []
 related: []
 app_links: []
 title: SoCal.. SoFar
+sourcePath: _posts/2016-03-31-socal-sofar.md
+published: true
 authors: []
 publisher:
   name: Socalsofar
   domain: socalsofar.com
   url: 'http://socalsofar.com'
   favicon: null
-sourcePath: _posts/2016-03-31-socal-sofar.md
-published: true
 url: socal-sofar/index.html
 _context: 'http://schema.org'
 _type: MediaObject
