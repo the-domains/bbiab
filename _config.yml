@@ -1,29 +1,17 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: be back in a bit - TEST SITE
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.46205
-title: be back in a bit - TEST SITE
-cta:
-  bucket: null
-  version: null
-  domain: null
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.375
   brandStrength: 0
@@ -35,7 +23,19 @@ color:
     - '#3f2f28'
     - '#946e4d'
   lightness: 0.8611340643838048
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
 name: bbiab
-typography_spectrum: 0.35483
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.469534
+layout_spectrum: 0.46205
