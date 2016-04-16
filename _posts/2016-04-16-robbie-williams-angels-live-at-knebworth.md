@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Maybien
-    url: 'https://www.youtube.com/user/Maybien'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=04wofd-rZtE'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - robbie
@@ -21,7 +17,13 @@ keywords:
   - angels
   - coldplay
 description: ''
-inLanguage: en
+datePublished: '2016-04-16T20:29:28.118Z'
+dateModified: '2016-04-16T20:29:18.668Z'
+author:
+  - name: Maybien
+    url: 'https://www.youtube.com/user/Maybien'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=04wofd-rZtE&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=04wofd-rZtE'
 title: Robbie Williams - Angels ( Live at Knebworth )
-datePublished: '2016-04-16T20:27:49.523Z'
-dateModified: '2016-04-16T20:27:30.935Z'
 sourcePath: _posts/2016-04-16-robbie-williams-angels-live-at-knebworth.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
