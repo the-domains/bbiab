@@ -1,5 +1,8 @@
+name: bbiab
+favicon: null
+layout_spectrum: 0.46706
+typography_spectrum: 0.469534
 title: be back in a bit - TEST SITE
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.375
-  brandStrength: 0
-  rhythmicContrast: 0.5
   brandColors:
     - '#000000'
     - '#34526a'
     - '#e3e3e2'
     - '#3f2f28'
     - '#946e4d'
+  brandStrength: 0
   lightness: 0.8611340643838048
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: bbiab
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.469534
-layout_spectrum: 0.46205
+  saturation: 0.375
+  rhythmicContrast: 0.5
+purpose: []
