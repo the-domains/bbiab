@@ -1,8 +1,40 @@
+layout_spectrum: 0.26978135585895563
+typography_spectrum: 0.19946115304503848
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.8948345614542798
+  lightness: 0.9594700651450802
+  saturation: 0.2748812034512215
+  rhythmicContrast: 0.9331890409150263
+opengraph:
+  image: null
+  type: null
+  appId: null
+analytics:
+  google: UA-100563602-1
+  facebook: null
+  twitter: null
 name: bbiab
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: bbiab
+    url: 'http://www.bbiab.com'
+    type: external
+  - name: '{dzign}'
+    url: 'https://thegrid.ai/dzign'
+    type: external
+  - name: gridtalk
+    url: 'http://gridtalk.info'
+    type: external
 favicon: null
-layout_spectrum: 0.46706
-typography_spectrum: 0.469534
-title: be back in a bit - TEST SITE
 collections:
   - index:
       path: /
@@ -15,27 +47,32 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#34526a'
-    - '#e3e3e2'
-    - '#3f2f28'
-    - '#946e4d'
-  brandStrength: 0
-  lightness: 0.8611340643838048
-  saturation: 0.375
-  rhythmicContrast: 0.5
+title: be back in a bit
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bad8e15-9875-48e9-901f-6d847115e333.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bad8e15-9875-48e9-901f-6d847115e333.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'hopefully with ideas for #thegrid'
 purpose: []
+github: true
