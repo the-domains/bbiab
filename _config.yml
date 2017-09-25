@@ -19,7 +19,7 @@ analytics:
   google: UA-100563602-1
   facebook: null
   twitter: null
-name: studio
+name: bbiab
 cta:
   domain: null
   bucket: null
@@ -47,7 +47,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: be back in a bit
+title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
